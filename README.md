@@ -67,6 +67,14 @@ python scripts/collect_sources.py --from-manifest --proxy http://127.0.0.1:10808
 
 ## 安装与档案
 
+可用 Skills CLI 从公开仓库安装，按提示选择使用的Agent：
+
+```sh
+npx skills add chosenecho/hegel-perspective-skill --skill hegel-perspective
+```
+
+默认安装到当前项目；追加`-g`可安装到用户目录。已有同名Skill或完整离线档案时，先备份再安装，避免覆盖本地资料。
+
 可将整个 `hegel-perspective/` 文件夹放入本机Skill目录。默认Codex位置是 `~/.codex/skills/hegel-perspective/`；不要只复制主文件而漏掉参考资料。安装前若目标已存在，先备份。
 
 本轮机器上的原始下载、提取文本与失败响应仅供本地研究，受各来源自己的权利条件约束；仓库 `.gitignore` 默认排除这些大文件，保留来源索引、请求状态和选读范围等元数据。**Git检出或Release解压不等于获得完整离线语料**：迁移离线能力时应复制本地完整Skill目录，并遵守来源许可。仓库代码许可不覆盖第三方译文、论文或网页。
