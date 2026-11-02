@@ -1,0 +1,238 @@
+{
+  "status": "PASS",
+  "mode": "full-archive",
+  "scope": "Package and source integrity, not philosophical correctness or independent behavioral validation.",
+  "checks": [
+    {
+      "check": "frontmatter",
+      "status": "PASS",
+      "detail": "Basic required fields; official skill-creator validation is separate."
+    },
+    {
+      "check": "seven_models",
+      "status": "PASS",
+      "detail": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "check": "model_sections",
+      "status": "PASS",
+      "detail": {
+        "missing": []
+      }
+    },
+    {
+      "check": "ten_heuristics",
+      "status": "PASS",
+      "detail": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "check": "source_ids",
+      "status": "PASS",
+      "detail": {
+        "undefined": []
+      }
+    },
+    {
+      "check": "self_contained_links",
+      "status": "PASS",
+      "detail": {
+        "documents": 21,
+        "broken": []
+      }
+    },
+    {
+      "check": "manifest_unique_ids",
+      "status": "PASS",
+      "detail": {
+        "resources": 472,
+        "unique_ids": 472
+      }
+    },
+    {
+      "check": "evidence_fingerprints",
+      "status": "PASS",
+      "detail": {
+        "entries": 40,
+        "errors": [],
+        "fingerprints_checked": 40,
+        "scope": "Textual presence only, not semantic proof."
+      }
+    },
+    {
+      "check": "cross_work_support",
+      "status": "PASS",
+      "detail": {
+        "1": [
+          "Enz",
+          "PR",
+          "PhG",
+          "WdL"
+        ],
+        "2": [
+          "PR",
+          "PhG"
+        ],
+        "3": [
+          "Enz",
+          "PR",
+          "PhG"
+        ],
+        "4": [
+          "Enz",
+          "PR"
+        ],
+        "5": [
+          "Enz",
+          "PR",
+          "WdL"
+        ],
+        "6": [
+          "Education-1809",
+          "PR",
+          "PhG"
+        ],
+        "7": [
+          "Letters",
+          "PR",
+          "WdL"
+        ]
+      }
+    },
+    {
+      "check": "curated_primary_evidence",
+      "status": "PASS",
+      "detail": {
+        "primary_entries": 40,
+        "curated_entries": 40,
+        "scope": "Curated ledger only; NOT whole archive or independent-source ratio."
+      }
+    },
+    {
+      "check": "main_archive_integrity",
+      "status": "PASS",
+      "detail": {
+        "resources": 472,
+        "raw_bytes": 36556104,
+        "distinct_work_labels": 25,
+        "status": "PASS",
+        "errors": [],
+        "scope": "File integrity only. Pages, works, and independent sources are different units."
+      }
+    },
+    {
+      "check": "auxiliary_archive_integrity",
+      "status": "PASS",
+      "detail": {
+        "artifacts_checked": 173,
+        "errors": []
+      }
+    },
+    {
+      "check": "behavioral_artifacts",
+      "status": "PASS",
+      "detail": "Existence only; read research/07-validation.md for assessment."
+    }
+  ],
+  "official_skill_creator_validation": {
+    "status": "PASS",
+    "command": "py -3.12 -X utf8 quick_validate.py hegel-perspective",
+    "output": "Skill is valid!",
+    "scope": "Frontmatter, naming and scaffold checks; not philosophical validation."
+  },
+  "voice_reproduction": {
+    "status": "PASS",
+    "samples": 20,
+    "sources": 6,
+    "total_words": 3408,
+    "method": "Fresh analyze_voice.py output compared as JSON with canonical voice-samples.json; equal."
+  },
+  "behavioral_scope": {
+    "first_round_tasks": 14,
+    "extra_creator_dry_runs": 3,
+    "regression_tasks": 2,
+    "anonymous_voice_comparisons": 1,
+    "isolated_sessions_per_task": false,
+    "cross_model_benchmark": false,
+    "first_institutional_proposal_incomplete": true
+  },
+  "skill_sha256": "8cfa3b3e1e8593014a9fb62de3a9c94fa012b6a9b7014d77c351edce66e157f4",
+  "checked_at_date": "2026-11-03",
+  "public_distribution_check": {
+    "status": "PASS",
+    "mode": "structure-only",
+    "scope": "Package structure only; original archive hashes and textual fingerprints were not verified.",
+    "checks": [
+      {
+        "check": "frontmatter",
+        "status": "PASS"
+      },
+      {
+        "check": "seven_models",
+        "status": "PASS"
+      },
+      {
+        "check": "model_sections",
+        "status": "PASS"
+      },
+      {
+        "check": "ten_heuristics",
+        "status": "PASS"
+      },
+      {
+        "check": "source_ids",
+        "status": "PASS"
+      },
+      {
+        "check": "self_contained_links",
+        "status": "PASS"
+      },
+      {
+        "check": "manifest_unique_ids",
+        "status": "PASS"
+      },
+      {
+        "check": "evidence_metadata",
+        "status": "PASS"
+      },
+      {
+        "check": "cross_work_support",
+        "status": "PASS"
+      },
+      {
+        "check": "curated_primary_evidence",
+        "status": "PASS"
+      },
+      {
+        "check": "main_archive_integrity",
+        "status": "SKIP"
+      },
+      {
+        "check": "auxiliary_archive_integrity",
+        "status": "SKIP"
+      },
+      {
+        "check": "behavioral_artifacts",
+        "status": "PASS"
+      }
+    ]
+  }
+}

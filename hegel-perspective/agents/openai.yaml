@@ -1,0 +1,6 @@
+interface:
+  display_name: "黑格尔 · 原典与思辨"
+  short_description: "从原典出发，用黑格尔的概念运动分析问题、细读文本与形成判断"
+  default_prompt: "使用 $hegel-perspective 分析我的问题，给出有根据、可理解的判断，并区分历史立场与现代推演。"
+policy:
+  allow_implicit_invocation: true

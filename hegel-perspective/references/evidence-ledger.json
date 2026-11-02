@@ -1,0 +1,605 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "scope": "Curated core claims and Hegel-authored counterevidence, not all archived sources or all research claims.",
+  "counting_rule": "Primary-share denominator is these curated Hegel evidence entries only; it is not a claim about the entire archive. One work across languages/parts counts once for cross-work support.",
+  "limits": [
+    "Literal presence verifies an archive fingerprint, not interpretation or authenticity.",
+    "Passage-level A/B/C grade overrides mixed whole-file grades.",
+    "Short needles are retrieval handles, not stand-alone quotations proving the whole paraphrase.",
+    "Some witness files include translator/editor material. Use the named locator and read context."
+  ],
+  "records": [
+    {
+      "id": "E01",
+      "source_id": "phen__phintro",
+      "work_key": "PhG",
+      "locator": "导论¶79",
+      "effective_grade": "A",
+      "models": [
+        1
+      ],
+      "needle": "determinate negation",
+      "claim": "规定否定从特定结果产生后继内容，非空无。",
+      "path": "references/sources/books/phen__phintro.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/ph/phintro.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E02",
+      "source_id": "phen__phintro",
+      "work_key": "PhG",
+      "locator": "导论¶84–87",
+      "effective_grade": "A",
+      "models": [
+        1
+      ],
+      "needle": "Consciousness furnishes its own criterion in itself",
+      "claim": "意识提供自身尺度；考验又改变尺度及对象。",
+      "path": "references/sources/books/phen__phintro.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/ph/phintro.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E03",
+      "source_id": "shorter__sl_vi",
+      "work_key": "Enz",
+      "locator": "EL§79正文/作者附注",
+      "effective_grade": "A",
+      "models": [
+        1
+      ],
+      "needle": "These three sides do not make three parts",
+      "claim": "三方面是逻辑活动的环节，不是三段时间公式。",
+      "path": "references/sources/books/shorter__sl_vi.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/sl/sl_vi.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E04",
+      "source_id": "shorter__sl_divis",
+      "work_key": "Enz",
+      "locator": "EL§82正文",
+      "effective_grade": "A",
+      "models": [
+        1
+      ],
+      "needle": "The Speculative stage",
+      "claim": "思辨把握对立过渡中的肯定内容，非任意折中。",
+      "path": "references/sources/books/shorter__sl_divis.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/sl/sl_divis.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E05",
+      "source_id": "right__printrod",
+      "work_key": "PR",
+      "locator": "§31作者附注",
+      "effective_grade": "A",
+      "models": [
+        1
+      ],
+      "needle": "Dialectic is not that process",
+      "claim": "反对任意摆弄命题直到得出相反面。",
+      "path": "references/sources/books/right__printrod.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/printrod.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E06",
+      "source_id": "logic1-de",
+      "work_key": "WdL",
+      "locator": "存在论：变易的扬弃，附注",
+      "effective_grade": "A",
+      "models": [
+        1
+      ],
+      "needle": "Aufheben hat in der Sprache den gedoppelten Sinn",
+      "claim": "扬弃具有保存与取消双义。",
+      "path": "references/sources/books/logic1-de.txt",
+      "url": "https://www.gutenberg.org/cache/epub/6729/pg6729.txt",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E07",
+      "source_id": "phg-de",
+      "work_key": "PhG",
+      "locator": "序言¶20",
+      "effective_grade": "A",
+      "models": [
+        2
+      ],
+      "needle": "Das Wahre ist das Ganze",
+      "claim": "整体通过发展完成；不能只保留口号。",
+      "path": "references/sources/books/phg-de.txt",
+      "url": "https://www.gutenberg.org/cache/epub/6698/pg6698.txt",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E08",
+      "source_id": "phg-de",
+      "work_key": "PhG",
+      "locator": "序言¶17",
+      "effective_grade": "A",
+      "models": [
+        2
+      ],
+      "needle": "sondern ebensosehr als Subjekt",
+      "claim": "真理不仅被把握为实体，也被把握为主体。",
+      "path": "references/sources/books/phg-de.txt",
+      "url": "https://www.gutenberg.org/cache/epub/6698/pg6698.txt",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E09",
+      "source_id": "right__printrod",
+      "work_key": "PR",
+      "locator": "§7正文",
+      "effective_grade": "A",
+      "models": [
+        2,
+        4
+      ],
+      "needle": "The will is the unity of these two elements",
+      "claim": "普遍与特殊的意志环节及个别自我规定。",
+      "path": "references/sources/books/right__printrod.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/printrod.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E10",
+      "source_id": "right__prstate",
+      "work_key": "PR",
+      "locator": "§260正文",
+      "effective_grade": "A",
+      "models": [
+        2,
+        4
+      ],
+      "needle": "The state is the actuality of concrete freedom",
+      "claim": "具体自由涉及个人发展、权利承认与普遍目的。",
+      "path": "references/sources/books/right__prstate.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prstate.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E11",
+      "source_id": "phen__phba",
+      "work_key": "PhG",
+      "locator": "IV.A¶184",
+      "effective_grade": "A",
+      "models": [
+        3
+      ],
+      "needle": "mutually recognizing one another",
+      "claim": "承认概念是双向的；不只被动获赞。",
+      "path": "references/sources/books/phen__phba.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/ph/phba.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E12",
+      "source_id": "phen__phba",
+      "work_key": "PhG",
+      "locator": "IV.A¶191",
+      "effective_grade": "A",
+      "models": [
+        3
+      ],
+      "needle": "one-sided and unequal",
+      "claim": "主奴关系中的承认是不对等的；不是规范完成。",
+      "path": "references/sources/books/phen__phba.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/ph/phba.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E13",
+      "source_id": "mind__suconsci",
+      "work_key": "Enz",
+      "locator": "ES§436正文",
+      "effective_grade": "A",
+      "models": [
+        3
+      ],
+      "needle": "each knows itself recognized in the other free man",
+      "claim": "普遍自我意识在另一自由个体的承认中实现。",
+      "path": "references/sources/books/mind__suconsci.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/sp/suconsci.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E14",
+      "source_id": "right__prcivils",
+      "work_key": "PR",
+      "locator": "§209作者附注",
+      "effective_grade": "A",
+      "models": [
+        3
+      ],
+      "needle": "A man counts as a man",
+      "claim": "人格普遍性与宗教/民族身份区别。",
+      "path": "references/sources/books/right__prcivils.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prcivils.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E15",
+      "source_id": "right__printrod",
+      "work_key": "PR",
+      "locator": "§15正文/作者附注",
+      "effective_grade": "A",
+      "models": [
+        4
+      ],
+      "needle": "The usual idea of freedom is that of caprice",
+      "claim": "任性包含形式反思与外给内容的依赖。",
+      "path": "references/sources/books/right__printrod.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/printrod.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E16",
+      "source_id": "right__printrod",
+      "work_key": "PR",
+      "locator": "§21正文",
+      "effective_grade": "A",
+      "models": [
+        4
+      ],
+      "needle": "the self-directing universality",
+      "claim": "自由意志的自我规定不能简化为选项数量。",
+      "path": "references/sources/books/right__printrod.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/printrod.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E17",
+      "source_id": "mind__suspirit",
+      "work_key": "Enz",
+      "locator": "ES§482正文",
+      "effective_grade": "A",
+      "models": [
+        4
+      ],
+      "needle": "The mind which knows itself as free",
+      "claim": "自由精神以自身自由为对象与目的，通向客观精神。",
+      "path": "references/sources/books/mind__suspirit.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/sp/suspirit.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E18",
+      "source_id": "right__prabstra",
+      "work_key": "PR",
+      "locator": "§36正文",
+      "effective_grade": "A",
+      "models": [
+        4
+      ],
+      "needle": "Be a person and respect others as persons",
+      "claim": "抽象法的人格命令；不能假装已构成全部伦理自由。",
+      "path": "references/sources/books/right__prabstra.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prabstra.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E19",
+      "source_id": "shorter__slactual",
+      "work_key": "Enz",
+      "locator": "EL§142正文",
+      "effective_grade": "A",
+      "models": [
+        5
+      ],
+      "needle": "Actuality is the unity",
+      "claim": "现实性关乎本质与实存、内与外的统一。",
+      "path": "references/sources/books/shorter__slactual.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/sl/slactual.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E20",
+      "source_id": "shorter__slactual",
+      "work_key": "Enz",
+      "locator": "EL§145正文",
+      "effective_grade": "A",
+      "models": [
+        5
+      ],
+      "needle": "Possibility and Contingency are the two factors",
+      "claim": "可能与偶然不能在现实性分析中抹除。",
+      "path": "references/sources/books/shorter__slactual.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/sl/slactual.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E21",
+      "source_id": "logic1-de",
+      "work_key": "WdL",
+      "locator": "本质论第三篇：现实性，章结构及正文",
+      "effective_grade": "A",
+      "models": [
+        5
+      ],
+      "needle": "Die Wirklichkeit ist die Einheit des Wesens und der Existenz",
+      "claim": "现实性是本质与实存的统一；不只是任何东西存在。",
+      "path": "references/sources/books/logic1-de.txt",
+      "url": "https://www.gutenberg.org/cache/epub/6729/pg6729.txt",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E22",
+      "source_id": "zeno-pr__001",
+      "work_key": "PR",
+      "locator": "序言理性—现实命题及前后论证",
+      "effective_grade": "A",
+      "models": [
+        5
+      ],
+      "needle": "Was vernünftig ist, das ist wirklich",
+      "claim": "原命题不是通常口号“凡存在都正确”。",
+      "path": "references/sources/books/zeno-pr__001.txt",
+      "url": "http://www.zeno.org/Philosophie/M/Hegel,+Georg+Wilhelm+Friedrich/Grundlinien+der+Philosophie+des+Rechts/Vorrede",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E23",
+      "source_id": "phg-de",
+      "work_key": "PhG",
+      "locator": "序言¶31",
+      "effective_grade": "A",
+      "models": [
+        6
+      ],
+      "needle": "Das Bekannte überhaupt ist darum",
+      "claim": "熟悉并不等于认识；教养需转化对象与主体。",
+      "path": "references/sources/books/phg-de.txt",
+      "url": "https://www.gutenberg.org/cache/epub/6698/pg6698.txt",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E24",
+      "source_id": "phg-de",
+      "work_key": "PhG",
+      "locator": "IV.A¶195",
+      "effective_grade": "A",
+      "models": [
+        6
+      ],
+      "needle": "Die Arbeit hingegen ist gehemmte Begierde",
+      "claim": "劳动延宕欲望并形成；不由此肯定所有劳动条件。",
+      "path": "references/sources/books/phg-de.txt",
+      "url": "https://www.gutenberg.org/cache/epub/6698/pg6698.txt",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E25",
+      "source_id": "right__prcivils",
+      "work_key": "PR",
+      "locator": "§197正文",
+      "effective_grade": "A",
+      "models": [
+        6
+      ],
+      "needle": "Practical education, acquired through working",
+      "claim": "理论与实践教养；应与其实际劳动制度一起读。",
+      "path": "references/sources/books/right__prcivils.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prcivils.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E26",
+      "source_id": "school1809-de",
+      "work_key": "Education-1809",
+      "locator": "1809学校演说：古典教育与主体形成",
+      "effective_grade": "A",
+      "models": [
+        6
+      ],
+      "needle": "so wesentlich ist die Abänderung des Verhältnisses",
+      "claim": "保留古典教育基础与改变它同当下的关系并行，非守旧/全弃二选一。",
+      "path": "references/sources/books/school1809-de.txt",
+      "url": "https://www.gutenberg.org/cache/epub/6728/pg6728.txt",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E27",
+      "source_id": "logic2-de",
+      "work_key": "WdL",
+      "locator": "概念论：目的论C，实现了的目的",
+      "effective_grade": "A",
+      "models": [
+        7
+      ],
+      "needle": "List der Vernunft",
+      "claim": "理性的狡计在目的利用对象相互作用的中介中讨论。",
+      "path": "references/sources/books/logic2-de.txt",
+      "url": "https://www.gutenberg.org/cache/epub/6834/pg6834.txt",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E28",
+      "source_id": "right__prcivils",
+      "work_key": "PR",
+      "locator": "§187正文",
+      "effective_grade": "A",
+      "models": [
+        2,
+        7
+      ],
+      "needle": "make themselves links in this chain of social connections",
+      "claim": "个人目的通过普遍社会联系实现；不是单独意图。",
+      "path": "references/sources/books/right__prcivils.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prcivils.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E29",
+      "source_id": "right__prcivils",
+      "work_key": "PR",
+      "locator": "§199正文",
+      "effective_grade": "A",
+      "models": [
+        7
+      ],
+      "needle": "subjective self-seeking turns into a contribution",
+      "claim": "相互依赖使私利活动产生他人需要的实现。",
+      "path": "references/sources/books/right__prcivils.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prcivils.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E30",
+      "source_id": "right__prcivils",
+      "work_key": "PR",
+      "locator": "§243正文",
+      "effective_grade": "A",
+      "models": [
+        7
+      ],
+      "needle": "The amassing of wealth is intensified",
+      "claim": "财富累积与劳动片面化及贫困相连，不是自动和解。",
+      "path": "references/sources/books/right__prcivils.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prcivils.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E31",
+      "source_id": "right__prcivils",
+      "work_key": "PR",
+      "locator": "§245正文",
+      "effective_grade": "A",
+      "models": [
+        7
+      ],
+      "needle": "When the masses begin to decline into poverty",
+      "claim": "救济/工作与过剩的难题；不套用于所有现代政策。",
+      "path": "references/sources/books/right__prcivils.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prcivils.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E32",
+      "source_id": "right__prcivils",
+      "work_key": "PR",
+      "locator": "§248正文",
+      "effective_grade": "A",
+      "models": [
+        7
+      ],
+      "needle": "the colonising activity",
+      "claim": "殖民在作者正文作为市民社会出口；非仅编辑偏见。",
+      "path": "references/sources/books/right__prcivils.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prcivils.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E33",
+      "source_id": "letters__1814-04-29",
+      "work_key": "Letters",
+      "locator": "1814-04-29致Niethammer，回顾自身预判",
+      "effective_grade": "B",
+      "models": [
+        7
+      ],
+      "needle": "having predicted this entire upheaval",
+      "claim": "“黑格尔从不预测”有直接反证；此处为自我声称。",
+      "path": "references/sources/books/letters__1814-04-29.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/letters/1814-04-29.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E34",
+      "source_id": "letters__1816-07-05",
+      "work_key": "Letters",
+      "locator": "1816-07-05致Niethammer",
+      "effective_grade": "B",
+      "models": [
+        7
+      ],
+      "needle": "for or against its progress",
+      "claim": "强历史进步确信与猫头鹰式认识边界须并存。",
+      "path": "references/sources/books/letters__1816-07-05.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/letters/1816-07-05.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E35",
+      "source_id": "right__prfamily",
+      "work_key": "PR",
+      "locator": "§166正文",
+      "effective_grade": "A",
+      "models": [],
+      "needle": "the former is powerful and active, the latter passive and subjective",
+      "claim": "性别角色排除位于作者正文；著名植物类比另属Addition。",
+      "path": "references/sources/books/right__prfamily.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prfamily.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E36",
+      "source_id": "right__prstate",
+      "work_key": "PR",
+      "locator": "§258正文",
+      "effective_grade": "A",
+      "models": [],
+      "needle": "supreme right against the individual",
+      "claim": "国家最高权利与§260个人权利间张力不能消掉。",
+      "path": "references/sources/books/right__prstate.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prstate.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E37",
+      "source_id": "right__prstate1",
+      "work_key": "PR",
+      "locator": "§281正文及作者附注",
+      "effective_grade": "A",
+      "models": [],
+      "needle": "the 'majesty' of the monarch",
+      "claim": "君主的自然出生/世袭论证不能改写成当代民主主义。",
+      "path": "references/sources/books/right__prstate1.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prstate1.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E38",
+      "source_id": "right__prstate1",
+      "work_key": "PR",
+      "locator": "§301正文/作者附注",
+      "effective_grade": "A",
+      "models": [],
+      "needle": "The Estates have the function",
+      "claim": "等级代表制与政治参与的历史限制。",
+      "path": "references/sources/books/right__prstate1.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prstate1.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E39",
+      "source_id": "right__prstate",
+      "work_key": "PR",
+      "locator": "§347正文",
+      "effective_grade": "A",
+      "models": [],
+      "needle": "the minds of the other nations are without rights",
+      "claim": "历史民族等级及不平等权利在作者正文。",
+      "path": "references/sources/books/right__prstate.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prstate.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    },
+    {
+      "id": "E40",
+      "source_id": "right__prstate",
+      "work_key": "PR",
+      "locator": "§351正文",
+      "effective_grade": "A",
+      "models": [],
+      "needle": "treats their autonomy as only a formality",
+      "claim": "文明/野蛮等级的结构性排除，不能归咎课堂编辑。",
+      "path": "references/sources/books/right__prstate.txt",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prstate.htm",
+      "review": "selected passage and context checked; Chinese claim is a paraphrase"
+    }
+  ]
+}

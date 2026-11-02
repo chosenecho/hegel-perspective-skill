@@ -1,0 +1,455 @@
+{
+  "schema_version": 1,
+  "dimension": "04-external-views",
+  "date": "2026-11-03",
+  "counting_rule": "16 indexed resources; three H entries are one Hegel work; formats do not increase source count; critic primary does not count as Hegel primary",
+  "records": [
+    {
+      "id": "H01",
+      "work_key": "hegel-philosophy-right",
+      "author": "G. W. F. Hegel",
+      "year": "1820/1821",
+      "title": "Elements of the Philosophy of Right: Family",
+      "classification": "H-A正文/评注; H-C Addition混合",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prfamily.htm",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "§166正文/评注/Addition，邻近家庭段落",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "public_domain_German_original; English_translation_rights_not_cleared",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-right-family.html",
+          "bytes": 53233,
+          "sha256": "fe7031f2f3c7f0586a59f6b8324c69535bb26531bb50eeb1cd347a4aaa146426"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-right-family.txt",
+          "bytes": 47639,
+          "sha256": "37da8e36bcfdb54d686fbb9836f26829ed7a26c32ec76c417bbc56cd1ef9addc"
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "work_key": "hegel-philosophy-right",
+      "author": "G. W. F. Hegel",
+      "year": "1820/1821",
+      "title": "Elements of the Philosophy of Right: Civil Society",
+      "classification": "H-A正文/评注; H-C Addition混合",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prcivils.htm",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "§§243–248逐节核验，注意Addition层",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "public_domain_German_original; English_translation_rights_not_cleared",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-right-civil.html",
+          "bytes": 138232,
+          "sha256": "65d337e9c687ec55f6740accefb1210285e310e59b82ba646ce81bd4bd2bc191"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-right-civil.txt",
+          "bytes": 124330,
+          "sha256": "9b4cd5b5eec7c4dff2c80337a2fccdc949d2ee643424cc15a7cb38b1cfff5f7b"
+        }
+      ]
+    },
+    {
+      "id": "H03",
+      "work_key": "hegel-philosophy-right",
+      "author": "G. W. F. Hegel",
+      "year": "1820/1821",
+      "title": "Elements of the Philosophy of Right: State",
+      "classification": "H-A正文/评注; H-C Addition混合",
+      "url": "https://www.marxists.org/reference/archive/hegel/works/pr/prstate.htm",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "§260、§347、§351正文及邻段",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "public_domain_German_original; English_translation_rights_not_cleared",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-right-state.html",
+          "bytes": 122163,
+          "sha256": "8947ee35371ee57cf45628403a5d222473762b5e6f50bc447c9736dd62093b42"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-right-state.txt",
+          "bytes": 113156,
+          "sha256": "d85330d8566be56c59aacfdfc8fe1433778c823573683838fcddce2e3c392eff"
+        }
+      ]
+    },
+    {
+      "id": "X01",
+      "work_key": "marx-1843-ch01",
+      "author": "Karl Marx",
+      "year": "1843 manuscript",
+      "title": "Critique of Hegel Philosophy of Right: Commentary §§261–263",
+      "classification": "X-P批评者原始资料; 对黑格尔非一手",
+      "url": "https://www.marxists.org/archive/marx/works/1843/critique-hpr/ch01.htm",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "重点对§262逐段评论及相邻论证",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "public_domain_original; English_translation_rights_not_independently_cleared",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/marx-1843-ch01.html",
+          "bytes": 48909,
+          "sha256": "fd7511eae2377c7f4cfa0204086c7c4a0e492d37098d4e635e05f5c1964667ce"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/marx-1843-ch01.txt",
+          "bytes": 42384,
+          "sha256": "a8a1a727a623359f1d2c1983be526c067619e1e0f9ce5402ebd4df91b7c73513"
+        }
+      ]
+    },
+    {
+      "id": "X02",
+      "work_key": "feuerbach-1839",
+      "author": "Ludwig Feuerbach; translated Zawar Hanfi",
+      "year": "1839; translation 1972",
+      "title": "Towards a Critique of Hegel Philosophy",
+      "classification": "X-P批评者原始资料; 对黑格尔非一手",
+      "url": "https://www.marxists.org/reference/archive/feuerbach/works/critique/index.htm",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "开头时间/空间、共存/继起；中段开端/纯存在/展示次序",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "modern_translation_copyright; local_research_snapshot_not_blanket_MIT",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/feuerbach-1839.html",
+          "bytes": 101856,
+          "sha256": "efed5ac848266d243ce78cc3d33288fd163f8a196d7542cd9e26346abea9fcd1"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/feuerbach-1839.txt",
+          "bytes": 98317,
+          "sha256": "cbfc7ed534ed0143b50db07dd178817128409333cbd9a683a682fd0bd70d138f"
+        }
+      ]
+    },
+    {
+      "id": "X03",
+      "work_key": "climacus-postscript-excerpt",
+      "author": "Johannes Climacus; published by S. Kierkegaard",
+      "year": "1846; modern translation anthology excerpt",
+      "title": "Concluding Unscientific Postscript: course excerpt",
+      "classification": "X-P化名作者的论述; 非作者全部立场",
+      "url": "https://web.stanford.edu/~jsabol/existentialism/materials/kierkegaard-cup-shorter.pdf",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "印本pp.196–198、PDF pp.2–3体系/存在论证；仅选集非全书",
+      "archive_scope": "excerpt_scan",
+      "rights": "modern_translation_scan; local_research_only; redistribution_not_cleared",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/climacus-postscript-excerpt.txt",
+          "bytes": 73623,
+          "sha256": "73787f0e11ac04a0c09c1a4631aafb6770c85ec5686088ce38672be9d592a4f8"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/climacus-postscript-excerpt.pdf",
+          "bytes": 1397716,
+          "sha256": "3afc00611bb8d9056430f076ec6c6232e692ff0f653ab6e79a33d02821bcf82a"
+        }
+      ]
+    },
+    {
+      "id": "X04",
+      "work_key": "popper-what-is-dialectic",
+      "author": "Karl R. Popper",
+      "year": "1940; mirror typesetting 2004",
+      "title": "What Is Dialectic?",
+      "classification": "X-P批评者原始资料; 非黑格尔一手",
+      "url": "https://www.vordenker.de/ggphilosophy/popper_what-is-dialectic.pdf",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "第一节尤其PDF pp.4–8；第二节黑格尔部分及结论；非Mind原刊页码",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "mirror_notice_allows_reuse_with_attribution; original_rights_not_independently_verified",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/popper-what-is-dialectic.txt",
+          "bytes": 83963,
+          "sha256": "9ec323f880768a60f584cbd8047af106a9a15192ed60ffc4d208882a5a1f033b"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/popper-what-is-dialectic.pdf",
+          "bytes": 465600,
+          "sha256": "3857dd5765dfc8927995d87aa5564e125141b0b7c251b2bbcf0221f51eac5a05"
+        }
+      ]
+    },
+    {
+      "id": "X05",
+      "work_key": "kaufmann-hegel-myth",
+      "author": "Walter Kaufmann",
+      "year": "1959",
+      "title": "The Hegel Myth and Its Method",
+      "classification": "X-P批评者原始资料; 对黑格尔为解释",
+      "url": "https://www.marxists.org/reference/subject/philosophy/works/us/kaufmann.htm",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "编号§§2–5与国家/战争相关段；Popper开放社会引文经本章",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "copyrighted_modern_chapter; local_research_snapshot_not_blanket_MIT",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/kaufmann-hegel-myth.html",
+          "bytes": 78639,
+          "sha256": "a160c3218c1b01a0841b15bbb7541c1d4cc5ab8481a38269c50cda9a15366e19"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/kaufmann-hegel-myth.txt",
+          "bytes": 72577,
+          "sha256": "7f2a95b475ea1eb3dfb66092f4a332fefc34deac5505399b8ff6fcd57687296c"
+        }
+      ]
+    },
+    {
+      "id": "D01",
+      "work_key": "bernasconi-egypt",
+      "author": "Robert Bernasconi",
+      "year": "2024-02-05 online; 2024 journal",
+      "title": "Hegel and Egypt’s African Element",
+      "classification": "X-P学术解释; 基于H-C校勘; 本次未直接核GW全卷",
+      "url": "https://www.cambridge.org/core/journals/hegel-bulletin/article/hegel-and-egypts-african-element/4ADA6583DC0E96DA7E4A77D1C9951C47",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "期刊pp.6–22，重点§§I–IV；编辑层、非洲/埃及过渡与GW定位",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "CC-BY-NC-4.0; commercial_redistribution_not_licensed",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/bernasconi-egypt.html",
+          "bytes": 1024044,
+          "sha256": "d8b7e4b8abc908efd2a436f1948c8e7d600e5f086c39cf5dbbe573b595596087"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/bernasconi-egypt.txt",
+          "bytes": 66322,
+          "sha256": "f2edc9db7a766d9dfbef5f501bd7f13b133ee1594a3375d0e9058ff2d1aca97b"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/bernasconi-egypt-published.pdf",
+          "bytes": 167725,
+          "sha256": "950a32bb605dc8f4c2acf0fafe643cb3b835ce5e8b7aca5355092935597babe3"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/bernasconi-egypt-published.txt",
+          "bytes": 54932,
+          "sha256": "99c5cd86f25164f94806c60ad56ffe5b0cdf99de4c8b308e2a2d157771b4a060"
+        }
+      ]
+    },
+    {
+      "id": "D02",
+      "work_key": "colonialism-postcolonial",
+      "author": "Jamila M. H. Mascat",
+      "year": "2024-03-11 online; 2024 journal",
+      "title": "Hegel, Colonialism and Postcolonial Hegelianism",
+      "classification": "X-P学术解释; 对黑格尔非一手",
+      "url": "https://www.cambridge.org/core/journals/hegel-bulletin/article/hegel-colonialism-and-postcolonial-hegelianism/632E308EE366D92B2428D7151220A396",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "期刊pp.120–143，重点§§I–IV与结论",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "CC-BY-4.0; attribution_required",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/colonialism-postcolonial.html",
+          "bytes": 1022782,
+          "sha256": "02e53d89931078a382fd052a5066f926c653f159516b9f44d454ffb6e209d1ba"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/colonialism-postcolonial.txt",
+          "bytes": 88925,
+          "sha256": "db46c76fd210a2dc4a677bb322af7ba8e644fbd645ebaf1d424c67a2776e4aba"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/colonialism-postcolonial-published.pdf",
+          "bytes": 214699,
+          "sha256": "82c25944dc7e9eaf39d8a94bdb916bb51bfcba52ceb00fe6f058ef0df45b4464"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/colonialism-postcolonial-published.txt",
+          "bytes": 79851,
+          "sha256": "473fb17942e6188cad6e4e8ca77808b999044e9f8f268b4415725938e68b5f6d"
+        }
+      ]
+    },
+    {
+      "id": "D03",
+      "work_key": "hegel-family-patriarchy",
+      "author": "Lorenzo Rustighi",
+      "year": "2024-11-29 online First View",
+      "title": "Hegel’s Family and the Problem of Modern Patriarchy",
+      "classification": "X-P学术解释; 对黑格尔非一手",
+      "url": "https://www.cambridge.org/core/journals/hegel-bulletin/article/hegels-family-and-the-problem-of-modern-patriarchy/8FF091042D50FBB7CBEB6307DF5DC759",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "First View pp.1–24，重点摘要、The Hegelian family、结语",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "CC-BY-4.0; attribution_required",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-family-patriarchy.html",
+          "bytes": 982124,
+          "sha256": "1f2ab92a7e952ca4cc1fa922cbe74b3f7379b7e31b40508e592fe5b43c692f26"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-family-patriarchy.txt",
+          "bytes": 80790,
+          "sha256": "29cb6585784ad6291b059ff607c3cdc788159c19eeaee2fb13ad1116d41d7c2e"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-family-patriarchy-published.pdf",
+          "bytes": 236041,
+          "sha256": "76de625a8200bf3340f8363383ce8f80d6a5639dbafaa0dc9b3576cd1d429364"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/hegel-family-patriarchy-published.txt",
+          "bytes": 71669,
+          "sha256": "e14d229203521730aa2cc14fcaa8e20dce87718a104783515c35519fd05c20b6"
+        }
+      ]
+    },
+    {
+      "id": "D04",
+      "work_key": "suther-2023",
+      "author": "Jensen Suther",
+      "year": "2023",
+      "title": "Hegel’s Metaphysics of Rational Life: Overcoming the Pippin–Houlgate Dispute",
+      "classification": "X-P学术解释; 不是Pippin/Houlgate本人全书",
+      "url": "https://dash.harvard.edu/bitstreams/f515c417-f414-42f8-9f1c-fab5e333333a/download",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "正文pp.1–32，PDF多封面一页；重点摘要与§§I–IV",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "Harvard_IOAL_terms_apply; not_public_domain; cite_published_version",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/suther-2023.txt",
+          "bytes": 104656,
+          "sha256": "5f46b7f30f6e8860f5994e3188b2a7f1ec039f4e779fc7cdea93d0fa033c47b4"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/suther-2023.pdf",
+          "bytes": 427265,
+          "sha256": "21327a89ba8e2b9d389baa603023f8f525b0356e32e68397870b70645691a0fb"
+        }
+      ]
+    },
+    {
+      "id": "D05",
+      "work_key": "sep-hegel",
+      "author": "Paul Redding",
+      "year": "1997 first; substantive revision 2025-09-19",
+      "title": "Georg Wilhelm Friedrich Hegel (SEP)",
+      "classification": "X-S学术百科综合; 非所列专著全文",
+      "url": "https://plato.stanford.edu/entries/hegel/",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "§§2.3–2.4；逻辑/精神及参考书定位；未逐段读全篇",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "SEP_copyright; local_research_snapshot; no_blanket_redistribution_license",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/sep-hegel.html",
+          "bytes": 179510,
+          "sha256": "aa5e9fa8934e979a621fb48565fd49385a5a5ebcf7bcea896a6de2a02647683c"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/sep-hegel.txt",
+          "bytes": 157097,
+          "sha256": "f4b32508eb1b79caf5514ac64d0a3771319c352011a1e216444497e0a5e2d4fb"
+        }
+      ]
+    },
+    {
+      "id": "D06",
+      "work_key": "sep-kierkegaard",
+      "author": "John Lippitt; C. Stephen Evans",
+      "year": "2023-05-22 first published",
+      "title": "Søren Kierkegaard (SEP)",
+      "classification": "X-S学术百科综合",
+      "url": "https://plato.stanford.edu/entries/kierkegaard/",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "化名写作、关系史、Stewart讨论；未读其全部参考书",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "SEP_copyright; local_research_snapshot; no_blanket_redistribution_license",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/sep-kierkegaard.html",
+          "bytes": 151693,
+          "sha256": "2e705eeb7cd31d87c4d728dbf28759e46432ca70265a51b08436c947df0bef8f"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/sep-kierkegaard.txt",
+          "bytes": 126474,
+          "sha256": "87f4489591213eed467fb6cb1e01278d5795e9e7ce555e33c2d282a4f2def202"
+        }
+      ]
+    },
+    {
+      "id": "D07",
+      "work_key": "sep-adorno",
+      "author": "Henry Pickford; Lambert Zuidervaart",
+      "year": "2003 first; substantive revision 2024-11-04",
+      "title": "Theodor W. Adorno (SEP)",
+      "classification": "X-S学术百科综合; 非Adorno原书已读",
+      "url": "https://plato.stanford.edu/entries/adorno/",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "§5 Negative Dialectics及其提供的原书页码",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "SEP_copyright; local_research_snapshot; no_blanket_redistribution_license",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/sep-adorno.html",
+          "bytes": 161829,
+          "sha256": "dd24b349d7cbb79d21cff81fe468ca0ca600e7fe9a6c989d6d6fdb3cb5708408"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/sep-adorno.txt",
+          "bytes": 137391,
+          "sha256": "aa727e9547c124a032d524e354a083d6497af8d396e6219f4c4145524fb73a88"
+        }
+      ]
+    },
+    {
+      "id": "D08",
+      "work_key": "sep-schelling",
+      "author": "Andrew Bowie",
+      "year": "2001 first; substantive revision 2023-02-09",
+      "title": "Friedrich Wilhelm Joseph von Schelling (SEP)",
+      "classification": "X-S学术百科综合; 晚期原典未全读",
+      "url": "https://plato.stanford.edu/entries/schelling/",
+      "retrieved_date": "2026-11-02/03 Asia/Hong_Kong",
+      "read_scope": "§5 Positive and Negative Philosophy, and the Critique of Hegel",
+      "archive_scope": "full_response_archived; selected_passages_read",
+      "rights": "SEP_copyright; local_research_snapshot; no_blanket_redistribution_license",
+      "artifacts": [
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/sep-schelling.html",
+          "bytes": 118991,
+          "sha256": "fb31e945f3f2bf441840950eac0a86d2f2b53b635cd4c0e3d22adf3d934c5078"
+        },
+        {
+          "path": "hegel-perspective/references/sources/critics-agent/sep-schelling.txt",
+          "bytes": 100354,
+          "sha256": "07f11dc5879ade12878ebae890c65ddbf446b4185396e4f047f8a8f7768dbabb"
+        }
+      ]
+    }
+  ],
+  "failed_candidates": [
+    {
+      "url": "https://negativedialectics.org/",
+      "status": "timeout; not_read; not_counted"
+    }
+  ],
+  "not_independently_full_read": [
+    "Adorno Negative Dialectics",
+    "Popper Open Society volume 2 chapter 12",
+    "GW27.1–4 lecture transcripts",
+    "Pippin 1989 and 2019 monographs",
+    "Pinkard 1994 and 2012 monographs",
+    "Houlgate 2022 two volumes",
+    "Beiser 2005",
+    "Brandom A Spirit of Trust 2019",
+    "Stewart Kierkegaard Relations to Hegel Reconsidered 2003"
+  ]
+}

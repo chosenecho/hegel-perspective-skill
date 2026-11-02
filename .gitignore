@@ -1,0 +1,15 @@
+.backups/
+.release/
+__pycache__/
+*.pyc
+# Local research copies retain third-party rights; do not publish by default.
+hegel-perspective/references/sources/raw/
+hegel-perspective/references/sources/books/
+hegel-perspective/references/sources/articles/
+hegel-perspective/references/sources/transcripts/
+hegel-perspective/references/sources/*-agent/*
+!hegel-perspective/references/sources/*-agent/source-index.json
+!hegel-perspective/references/sources/*-agent/source-index.md
+!hegel-perspective/references/sources/*-agent/source-notes.md
+# Machine-local installation paths and tree receipts are not release assets.
+hegel-perspective/references/validation/installation-check.json
